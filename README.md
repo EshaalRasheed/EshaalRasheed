@@ -1,6 +1,6 @@
 Hi there 👋, I'm Eshaal Rasheed
 
-I'm a passionate final year Software Engineering undergraduate student with a keen interest in Artificial Intelligence (AI) and Machine Learning (ML). My journey in tech revolves around building intelligent systems that can learn, adapt, and make a positive impact.
+I'm a passionate Software Engineering graduate with a keen interest in Artificial Intelligence (AI) and Machine Learning (ML). My journey in tech revolves around building intelligent systems that can learn, adapt, and make a positive impact.
 
 👨‍💻 About Me
 
