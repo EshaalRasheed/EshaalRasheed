@@ -4,7 +4,7 @@ I'm a passionate Software Engineering graduate with a keen interest in Artificia
 
 👨‍💻 About Me
 
-- 🎓 Currently in the final year of Software Engineering.
+- 🎓 Software Engineering Graduate with Specialization in AI.
 - 🤖 Enthusiastic about AI, Machine Learning, and their real-world applications.
 - 💡 Always eager to explore the latest advancements in data science and deep learning.
 - 🛠️ Love solving complex problems and automating tasks to enhance efficiency.
